@@ -3735,7 +3735,7 @@ No matching component was found for:
       bg-primary bg-opacity-100
       `,children:q.jsxs("div",{className:`w-full flex justify-between
       items-center max-w-20xl mx-auto`,children:[q.jsxs(EO,{to:"/",className:"flex items-center gap-2",onClick:()=>{e(""),window.scrollTo(0,0)},children:[q.jsx("img",{src:iJ,alt:"logo",className:"w-16 h-16 object-cover"}),q.jsx("p",{className:`text-white text-[18px]
-            font-bold cursor-pointer`,children:"Adnan Shaikh"})]}),q.jsx("div",{className:"-md:hidden mx-2 md:font-bold md:text-lg text-sm color-red",children:"Under Construction"}),q.jsx("ul",{className:"list-none hidden sm:flex flex-row gap-10",children:$b.map(r=>q.jsx("li",{className:`
+            font-bold cursor-pointer`,children:"Adnan Shaikh"})]}),q.jsx("ul",{className:"list-none hidden sm:flex flex-row gap-10",children:$b.map(r=>q.jsx("li",{className:`
             ${n===r.title?"text-white":"text-secondary"} 
             hover:text-white text-[18px]
             font-medium cursor-pointer
